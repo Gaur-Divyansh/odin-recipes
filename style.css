@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 44px;
+}
+
+a{
+    color: red;
+}
